@@ -1,0 +1,6 @@
+Line 109: Class MSComCtl2.FlatScrollBar of control FlatScrollBar1 was not a loaded control class.
+Line 116: The property name _ExtentX in FlatScrollBar1 is invalid.
+Line 117: The property name _ExtentY in FlatScrollBar1 is invalid.
+Line 118: The property name _Version in FlatScrollBar1 is invalid.
+Line 120: The property name LargeChange in FlatScrollBar1 is invalid.
+Line 121: The property name Orientation in FlatScrollBar1 is invalid.
